@@ -6,6 +6,8 @@
 - The repository is intended to be a lean Git submodule for React applications.
 - Its planned `frontend-architecture.md` will define binding vertical-slice architecture standards.
 - The architecture document is not present yet and is outside this cycle's deliverables.
+- The README must label the architecture document as forthcoming and clarify AI examples assume
+  consumers have that file before relying on them.
 - The README should position this repository as guidance, not a starter kit, component library, or package.
 - Main benefits to emphasize: consistency across features, easier AI-assisted implementation, and
   maintainability.
