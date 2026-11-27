@@ -54,6 +54,8 @@ standards to the planned root-level `frontend-architecture.md`.
 11. State that Git is the only prerequisite. Do not add runtime setup, package installation, or
     build instructions.
 12. Keep README content within the repository's 120-character line limit.
+13. Explicitly label `frontend-architecture.md` as forthcoming. Clarify that consumers must have this
+    companion file before relying on the AI instruction examples.
 
 ## Technical Design
 
@@ -63,8 +65,8 @@ standards to the planned root-level `frontend-architecture.md`.
 - AI instruction examples will refer to
   `react-vertical-slice/frontend-architecture.md`.
 - The architecture document is planned but absent and is not a deliverable of this cycle. The README
-  must not imply that the detailed standards are already included in this repository until that
-  document exists.
+  must label it as forthcoming and not imply that the detailed standards are already included.
+  AI instruction examples assume the companion file is available to consumers.
 - The optional RPIE companion URL is `https://github.com/Mathewlenning/rpie`.
 - The existing root `LICENSE` is GNU GPL version 3.
 
@@ -90,6 +92,8 @@ standards to the planned root-level `frontend-architecture.md`.
 - The Copilot, `AGENTS.md`, and one-time prompt examples are copy-pasteable and consistently
   frontend-specific. They apply the architecture as binding guidance to all host-app frontend work.
 - Contribution, optional RPIE companion, and GPL-3.0 license information are present.
+- The planned status of the architecture document is explicit, and the AI examples do not imply
+  consumers can follow standards that are not yet available.
 - No application dependencies, build steps, or runtime claims are introduced.
 - Markdown renders cleanly, the line-length requirement is met, and references are accurate for
   current or clearly identified planned documents.
