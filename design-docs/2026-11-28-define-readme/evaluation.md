@@ -54,8 +54,8 @@
   present.
 - Passed: the architecture document's forthcoming status is explicit and AI usage is conditioned
   on its availability.
-- Passed: after user authorization, created `context_map.md` with the feature-folder, PRD, and
-  Research references required by RPIE.
+- Passed: after user authorization, created `design-docs/context_map.md` with the feature-folder,
+  PRD, and Research references required by RPIE.
 
 ## Success Criteria
 
@@ -65,5 +65,5 @@
   for deviations.
 - Passed: existing local references resolve; the forthcoming architecture document is clearly
   identified.
-- Passed: `context_map.md` points to the completed PRD and Research record.
+- Passed: `design-docs/context_map.md` points to the completed PRD and Research record.
 - Passed: documentation checks report no whitespace or formatting errors.
