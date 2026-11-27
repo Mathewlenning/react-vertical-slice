@@ -54,3 +54,9 @@
 - `.gitmodules` — records the existing RPIE submodule source URL.
 - `rpie/rpie.md` — authoritative RPIE process rules followed for this cycle.
 - `.github/copilot-instructions.md` — points contributors to the authoritative RPIE rules.
+
+## Plan Summary
+
+- The approved `prd.md` defines this cycle's README requirements and single implementation step.
+- The README must identify `frontend-architecture.md` as forthcoming; creating it remains out of
+  scope.
