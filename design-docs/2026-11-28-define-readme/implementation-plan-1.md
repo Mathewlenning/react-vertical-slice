@@ -8,8 +8,8 @@ contribution guidance, and license.
 
 ## Progress Tracking
 
-- Status: Not started
-- Progress: 0%
+- Status: In progress
+- Progress: 10%
 
 ## Acceptance Criteria
 
